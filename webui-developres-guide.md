@@ -49,7 +49,7 @@ Concerns are mostly brought up if a dev brings in a lot of changes without furth
 But if further maintenance is planned, then I see no reason against some refactoring/updating.
 
 ##### * Road Map
-- [ ] filling out the developre's guide
+- [ ] filling out the developer's guide
 - [ ] Teleport plugins (not just copy, a full refactoring with use of best practicies!) from legacy webui
 
 ##### * directory structure
@@ -82,7 +82,7 @@ Usefull links: [Preact](https://preactjs.com/) , [Tailwind CSS](https://tailwind
 
 
 ##### * Road Map
-- [ ] filling out the developre's guide
+- [ ] filling out the developer's guide
 
 ##### * directory structure
 | path | description |
