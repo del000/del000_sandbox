@@ -63,9 +63,11 @@ But if further maintenance is planned, then I see no reason against some refacto
 | www/cgi-bin/p/             | header, footer |
 | www/cgi-bin/p/common.cgi   | functions, common used in other scripts |
 
-
-##### * some tricks
+##### * code conventions
 ##### * best practicies
+##### * some tricks
+##### * template scripts (for a quick and proper start)
+
 
 
 ### fancyweb and fancyweb-ng
@@ -89,5 +91,7 @@ Usefull links: [Preact](https://preactjs.com/) , [Tailwind CSS](https://tailwind
 |---|---|
 |                        | |
 
-##### * some tricks
+##### * code conventions
 ##### * best practicies
+##### * some tricks
+##### * template scripts (for a quick and proper start)
