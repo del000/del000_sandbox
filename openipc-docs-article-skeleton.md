@@ -32,7 +32,7 @@ another_code() {
   print "Hello, world!";
 }
 ```
-## Useful lunks
+## Useful links
 
 [link_1](https://openipc.org)
 
