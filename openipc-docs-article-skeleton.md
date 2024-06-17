@@ -32,7 +32,7 @@ another_code() {
   print "Hello, world!";
 }
 ```
-Here is table example:
+And here is table example:
 | name | description | note | 
 | --- | --- | --- |
 | 1st-row | first example | some note |
