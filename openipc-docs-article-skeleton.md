@@ -32,6 +32,12 @@ another_code() {
   print "Hello, world!";
 }
 ```
+Here is table example:
+| name | description | note | 
+| --- | --- | --- |
+| 1st-row | first example | some note |
+| 2nd-row | another one | other note |
+
 ## Useful links
 
 [link_1](https://openipc.org)
